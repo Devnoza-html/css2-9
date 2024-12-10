@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: inter;
+    font-weight: 400;
+    margin: 64px 158px 154px 158px;
+}
+
+#mainDiv {
+    background-color: #E8EEFF;
+    padding-bottom: 564px;
+}
+
+#header {
+    max-width: 864px;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 96px;
+    margin-bottom: 24px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 72px;
+}
+
+#analytics {
+    color: #0055FF;
+}
+
+#smarter {
+    text-decoration: underline;
+    color: #6941C6;
+}
+
+#firstParagraph {
+    max-width: 768px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 64px;
+}
+
+#powerful {
+    text-align: center;
+    font-size: 22px;
+    color: #535862;
+}
+
+#chart {
+    display: block;
+    max-width: 1216px;
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 64px;
+}
+
+#boxOne, #boxTwo, #boxThree {
+    display: inline-block;
+    max-width: 450px;
+    width: 100%;
+    background-color: white;
+    margin-left: 96px;
+    border-radius: 8px;
+    margin-right: 32px;
+}
+
+#chat, #zap, #break {
+    display: block;
+    margin: 0 auto;
+    padding-top: 16px;
+    padding-bottom: 20px;
+}
+
+#headerOne, #headerTwo, #headerThree {
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+#paragraphOne, #paragraphTwo, #paragraphThree {
+    text-align: center;
+    color: #535862;
+    padding-bottom: 16px;
+    font-size: 17px;
+}
+
+#boxTwo, #boxThree {
+    margin-left: 0;
+    margin-bottom: 64px;
+}
+
+#container {
+    background-color: #53389E;
+    max-width: 1216px;
+    width:100%;
+    margin: 0 auto;
+    border-radius: 24px;
+}
+
+#content {
+    padding: 64px;
+}
+
+#shot {
+    color: white;
+    margin-bottom: 20px;
+}
+
+#join {
+    color: white;
+    margin-bottom: 48px;
+}
+
+#learnMore {
+    background-color: white;
+    padding: 12px 18px;
+    border: none;
+    border-radius: 8px;
+    color: #414651;
+    margin-right: 12px;
+    border: 1px solid #D5D7DA;
+}
+
+#getStarted {
+    border: 2px solid #FFF;
+    padding: 12px 18px;
+    border-radius: 8px;
+    background-color: #7F56D9;
+    color: white;
+}
+
+#girl {
+    display: block;
+    margin-left: auto;
+    margin-top: -288px;
+    border-top-right-radius: 24px;
+    border-bottom-right-radius: 24px;
+}
